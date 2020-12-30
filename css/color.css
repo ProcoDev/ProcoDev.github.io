@@ -182,7 +182,7 @@ span.highlight-text-inverted{
 }
 /* ------- Contact Style ------ */
 .contact-section .contact-form input[type="submit"] {
-	background-color:  #111111;
+	background-color:  #ffffff;
 }
 .contact-section .contact-form input[type="submit"]:hover {
 	opacity: 0.6;
